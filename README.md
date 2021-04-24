@@ -9,7 +9,7 @@ _for learning purposes_
 
 This project is for learning purposes only.
 
-Site published at 
+Site published at https://hillagvar.github.io/5-everad/
 
 Design: [Everad](https://static-cse.canva.com/blob/133629/31.png)
 
