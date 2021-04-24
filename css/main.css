@@ -1,0 +1,195 @@
+body {
+    background-color: white;
+    margin: 0;
+    font-family: Tahoma, sans-serif;
+}
+
+header {
+    display: inline-block;
+    float: left;
+    width: 100%;
+    background-color: #17191a;
+}
+
+header > div {
+    display: inline-block;
+    float: left;
+    width: 1000px;
+    margin-left: calc(50% - 500px);
+    text-align: center;
+}
+
+header > div > img {
+    display: inline-block;
+    float: left;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+header > div > nav {
+    display: inline-block;
+    margin-top: 28px;
+}
+
+header > div > nav > a {
+    display: inline-block;
+    float: left;
+    line-height: 18px;
+    font-size: 16px;
+    color: white;
+    text-decoration: underline;
+    text-transform: uppercase;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+header > div > a {
+    display: inline-block;
+    float: right;
+    line-height: 18px;
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    margin-top: 16px;
+    padding: 10px;
+    padding-left: 18px;
+    padding-right: 18px;
+    background-color: #2684c3;
+}
+
+main {
+    display: inline-block;
+    width: 100%;
+    background-color: #f2f2f2;
+    margin: 0;
+}
+
+main > div {
+    display: inline-block;
+    float: left;
+    width: 1000px;
+    margin-left: calc(50% - 500px);
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+main > div > img {
+    display: inline-block;
+    float: left;
+    width: 600px;
+    margin-top: 60px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+main > div > h1 {
+    display: inline-block;
+    width: 40%;
+    line-height: 200px;
+    font-size: 200px;
+    margin-top: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 5px;
+    color: #434444;
+    font-weight: 500;
+}
+
+main > div > p {
+    display: inline-block;
+    width: 40%;
+    line-height: 30px;
+    font-size: 24px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: #4e5355;
+    font-weight: 400;
+}
+
+main > div > a {
+    display: inline-block;
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-decoration: none;
+    font-size: 16px;
+    color: white;
+    line-height: 18px;
+    background-color: #2684c3;
+}
+
+footer {
+    display: inline-block;
+    float: left;
+    width: 100%;
+    background-color: black;
+}
+
+footer > div {
+    display: inline-block;
+    float: left;
+    width: 1000px;
+    margin-left: calc(50% - 500px);
+}
+
+footer > div > div {
+    display: inline-block;
+    width: 20%;
+    text-align: left;
+    margin: 0;
+    margin-bottom: 20px;
+
+}
+
+footer > div > div:first-of-type {
+    display: inline-block;
+    float: left;
+    text-align: left;
+    margin: 0;
+    margin-left: 10%;
+
+}
+
+footer > div > div:last-of-type {
+    display: inline-block;
+    float: right;
+    text-align: left;
+    margin: 0;
+    margin-right: 8%;
+
+}
+
+footer > div > div > p {
+    display: inline-block;
+    width: 100%;
+    color: white;
+    line-height: 16px;
+    font-size: 15px;
+
+}
+
+
+footer > div > div > nav {
+    display: inline-block;
+    float: left;
+    width: 100%;
+}
+
+
+footer > div > div > nav > a {
+    display: block;
+    color: #2479b3;
+    line-height: 16px;
+    font-size: 14px;
+}
+
+footer > div > div > div > img {
+    display: inline-block;
+    float: left;
+    width: 40px;
+    margin: 2px;
+}
+
